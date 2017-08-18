@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "type": "text",
+      "question": "Your name?",
+      "optional": "no"
+    },
+    {
+      "type": "radio",
+      "question": "Your gender?",
+      "optional": "no",
+      "values": [
+        "Male",
+        "Female"
+      ]
+    },
+    {
+      "type": "date",
+      "question": "Your birthdate?",
+      "optional": "no"
+    },
+    {
+      "type": "phone",
+      "question": "Your mobile number?",
+      "optional": "yes"
+    },
+    {
+      "type": "checkbox",
+      "question": "Your interest?",
+      "optional": "no",
+      "values": [
+        "Cricket",
+        "Volly ball",
+        "Football",
+        "Chess",
+        "Tennis"
+      ]
+    }
+  ]
+}
